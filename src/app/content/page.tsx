@@ -8,6 +8,7 @@ const Cfc = () => {
             <Footer></Footer>
         <h1 className={stylecss.h1}>SERVICES WE PROVIDE</h1>
         <p className={stylecss.para}>We provide videos related to pets to watch video <a href="https://youtube.com/@khizerpethouse6574?si=wwQEC2pDg68z4NwY"><b><u>click here</u></b></a></p>
+        <p className={stylecss.para}>We provide videos related to pets to watch video <a href="https://youtube.com/@khizerpethouse6574?si=wwQEC2pDg68z4NwY"><b><u>click here</u></b></a></p>
         </div>
         
     )
