@@ -1,0 +1,9 @@
+.hero{
+    position: relative;
+}
+
+.hero .content{
+    position: absolute;
+    top: 100px;
+    left: 50px; 
+}

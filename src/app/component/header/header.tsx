@@ -9,7 +9,7 @@ const Header = () => {
       
         
         
-        <Link href="/" className="border-0 rounded-2xl bg-sky-600 px-1 py-1 text-base text-lime-300 " >home</Link>&nbsp;&nbsp;&nbsp;
+        <Link href="/" className="border-0 rounded-2xl bg-sky-600 px-1 py-1 text-base text-lime-300  " >home</Link>&nbsp;&nbsp;&nbsp;
         <Link href="content" className="border-0 rounded-2xl bg-sky-600 px-1 py-1 text-base text-lime-300">content</Link>&nbsp;&nbsp;&nbsp;
         <Link href="about" className="border-0 rounded-2xl bg-sky-600 px-1 py-1 text-base text-lime-300">about</Link>&nbsp;&nbsp;&nbsp;
         <Link href="contact" className="border-0 rounded-2xl bg-sky-600 px-1 py-1 text-base text-lime-300">contact</Link>

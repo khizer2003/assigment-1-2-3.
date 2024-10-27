@@ -7,7 +7,7 @@ const Cfc = () => {
         <div>
             <Header></Header>
             
-        <h1 className={stylecss.h1}>CONTACT INFO</h1>
+        <h1 className="text-primary bg-secondary text-center">CONTACT INFO</h1>
         <p className={stylecss.para}>To contact KHIZER KAKWAN <a href="https://www.instagram.com/khizer_kakwan?igsh=MTAzYmkzeTRtNmRtZQ=="><u><b>click here</b></u></a></p>
         <Footer></Footer>
         </div>
